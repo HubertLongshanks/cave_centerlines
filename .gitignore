@@ -5,4 +5,4 @@
 *.zip
 *.env
 *.las
-*.txt
+*_final

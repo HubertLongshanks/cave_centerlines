@@ -1,0 +1,8 @@
+ipykernel
+trimesh
+geopandas[all]
+numpy
+skeletor
+robust_laplacian
+navis-fastcore
+pyglet

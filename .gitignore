@@ -1,0 +1,8 @@
+*.ply
+*.fgb
+*.obj
+*.geojson
+*.zip
+*.env
+*.las
+*.txt
